@@ -1,0 +1,8 @@
+Steps to implement:
+
+1. Install the softwares in "Softwares" folder.
+2. Import "HumanDiseasePrediction" project from code folder.
+3. Add Apache7.0 Server from "Softwares" folder.
+4. Add servlet-api.jar file from "Apache lib" folder.
+5. Run the project as "Run on Server"
+6. Enter Patient Details and predict disease.
